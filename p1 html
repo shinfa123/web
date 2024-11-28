@@ -1,0 +1,19 @@
+<html>
+<head>
+<title></title>
+</head>
+<body bgcolor="blue">
+<h1>hello html</h1>
+<h2>hello html</h2>
+<h3>hello html</h3>
+<h4>hello html</h4>
+<h5>hello html</h5>
+<h6>hello html</h6>
+<b>bold</b>
+<i>italic</i>
+<u>under line</u>
+<p align="center">The <b>sky</b> is an unobstructed view upward from the surface of the Earth. ,<br>It includes the atmosphere and outer space</br>. It may also be considered a place between the ground and outer <u>space</u>, thus distinct from outer space. In the field of <i>astronomy</i>, the sky is also called the celestial spher</p>
+<marquee scroll amount ="10",direction="up"behaviour="alternate">scrolling text</marquee>
+<img src=file:///home/mca/Downloads/sky>
+<a href=https://www.pexels.com/search/beautiful%20sky/>go to </a>
+

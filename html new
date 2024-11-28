@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>list</title>
+</head>
+<body>
+<h1>list in html</h1>
+
+
+<ol>
+<li>orderd list</li>
+<li>unorderd list</li>
+<li>describtion list</li>
+</ol>
+<h1>orderd list</h1>
+<p>An ordered list typically is a numbered list of items. HTML 3.0 gives you the ability to control the sequence number - to continue where the previous list left off, or to start at a particular number.</p>
+
+
+<ol type ="A">
+<li>tiger</li>
+<li>lion</li>
+<li>monkey</li>
+</ol>
+<ol type="a">
+<li>tiger</li>
+<li>lion</li>
+<li>monkey</li>
+</ol>
+<ol type ="I">
+<li>tiger</li>
+<li>lion</li>
+<li>monkey</li>
+</ol>
+<ol type ="i">
+<li>tiger</li>
+<li>lion</li>
+<li>monkey</li>
+</ol>
+<h1>animals in unorderd list</h1>
+<ul>
+An unordered list starts witag. Each list item starts wit tag. The list items will be marked with bullets
+<li>tiger</li>
+<li>lion</li>
+<li>monkey</li>
+</ul>
+<h1>description list</h1>
+<p>Description lists are used to associate terms with their relevant descriptions. This is done by utilizing the description list element  to contain all of the description term elements  that are each followed by the related description elements.
+<dl>
+<dt>cofee</dt>
+<dd>testy coffeeee</dd>
+</dl>
+</body>
+</html>
+

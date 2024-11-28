@@ -1,0 +1,19 @@
+h1{
+ color:red;
+  text-align:center;
+}
+ul{
+   color:blue;
+  font-size:30px;
+  padding-left:60px;
+  padding-top:60px;
+}
+img{
+  margin-left:500px;
+  width:300 px;
+  height:500px;
+}
+p{
+ color:black;
+  font-size:30px;
+}
